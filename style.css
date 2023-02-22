@@ -33,14 +33,14 @@ main {
   justify-content: space-around;
 }
 
-.right {
+.left {
   width: 52rem;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.left {
+.right {
   width: 52rem;
   font-size: 3rem;
 }
@@ -116,4 +116,29 @@ h1 {
 
 .label-score {
   margin-bottom: 2rem;
+}
+
+@media (max-width: 600px) {
+  .right {
+    font-size: 1.8rem;
+  }
+  .left {
+    font-size: 3rem;
+  }
+  h1 {
+    font-size: 2.5rem;
+  }
+  .guess {
+    font-size: 3rem;
+    width: 12rem;
+  }
+  .number {
+    width: 12rem;
+  }
+  .btn {
+    width: 15rem;
+  }
+  .between {
+    font-size: 1.3rem;
+  }
 }

@@ -22,7 +22,7 @@ This project was built with:
 
 Guess the number is a web site for people guess a random number between 1 and 20.
 On the scream you can see if the guess was greater or lower than the chosen random number.
-You can start again using the button "Again!. Guessing the number your "score" will be saved and it can increase if you guess the number faster than before.
-You can accumulate "score" during the game, so try your best!
+You can start again using the button "Again!". Guessing the number your "Score" will be saved in "Highscore" and it can increase if you guess the number faster than before.
+You can accumulate "Highscore" during the game, so try your best!
 
-- [Acess the finished project online]
+- <a href= "https://kauanatomb.github.io/Guess-my-number/">Acess the finished project online</a>

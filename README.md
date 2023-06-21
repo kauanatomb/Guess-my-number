@@ -1,5 +1,5 @@
 <h1 align="center">Guess the Number</h1>
-<p align="center">This website was built to practice my knowlegde in JavaScript and DOM. Basically you need to guess a random number between 1 and 20. How fast can you do it?</p>
+<p align="start">This website was built to practice my knowlegde in JavaScript and DOM. Basically you need to guess a random number between 1 and 20. How fast can you do it?</p>
 
 <p align="center">
 <a href="#-tecnologies">Tecnologies</a>
